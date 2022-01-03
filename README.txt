@@ -1,2 +1,2 @@
 link:->
-syalo.in
+www.syalo.in
